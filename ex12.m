@@ -1,7 +1,6 @@
 % ex12_main.m
 % Exercise 12 – FIR Low-Pass via direct formula (sinc) and comparison
 % Creates figures for M=20 and M=64 and saves them in ./figures
-% Author: <your name>    Date: <yyyy-mm-dd>
 
 clear; close all; clc;
 
